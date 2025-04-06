@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         
-        Prashant's Caching
+        Prashant's Trigger cache invalidation
         
       </header>
     </div>
